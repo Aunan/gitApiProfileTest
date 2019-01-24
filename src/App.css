@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-color: #40495c;
+  min-height: 100vh;
+}
+.Title{
+  color:whitesmoke;
+  margin:0 0 1% 0;
+}
+.Title>h1{
+    margin:0;
+}
